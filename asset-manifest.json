@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hng-linktree/static/css/main.2d12dfb3.css",
+    "main.js": "/hng-linktree/static/js/main.df02430f.js",
+    "static/js/787.1b7dcf16.chunk.js": "/hng-linktree/static/js/787.1b7dcf16.chunk.js",
+    "index.html": "/hng-linktree/index.html",
+    "main.2d12dfb3.css.map": "/hng-linktree/static/css/main.2d12dfb3.css.map",
+    "main.df02430f.js.map": "/hng-linktree/static/js/main.df02430f.js.map",
+    "787.1b7dcf16.chunk.js.map": "/hng-linktree/static/js/787.1b7dcf16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d12dfb3.css",
+    "static/js/main.df02430f.js"
+  ]
+}
